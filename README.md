@@ -9,7 +9,7 @@ Design: https://www.figma.com/file/BUbV7WmHEDxdRbgLOLKUtY/Stage-03---Formul%C3%A
 
 Por meio do módulo 03, parte 01, foi possível:
 
-Entender os campos HTML
+.Entender os campos HTML
 
 Entender como funcionam os formulários no HTML
 
