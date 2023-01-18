@@ -1,7 +1,4 @@
 # Mentoria-formulario
-## Projeto - stage3.1 - desafio do curso Explorer - Rocketseat
-
-
 
 ### Projeto Intermediário - Formulários, Validações e Customizações
 
